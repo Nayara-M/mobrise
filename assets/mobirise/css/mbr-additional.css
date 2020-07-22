@@ -1449,7 +1449,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s5u0E3eRFS H2 {
-  text-align: left;
+  text-align: center;
+  color: #073b4c;
 }
 .cid-s5u3nr7M0G .google-map {
   height: 25rem;
@@ -1478,12 +1479,15 @@ section.lazy-placeholder:after {
   display: none;
 }
 .cid-s5u9zpwxKj {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s5u9zpwxKj .mbr-section-subtitle {
   color: #767676;
+}
+.cid-s5u9zpwxKj H2 {
+  color: #073b4c;
 }
 .cid-s5u8HgZqYA {
   padding-top: 45px;
